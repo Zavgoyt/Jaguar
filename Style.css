@@ -1,0 +1,28 @@
+body{  
+    background-color: dodgerblue;
+}
+.main{
+    background-color: white;
+    margin: auto;
+    width: 980px;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 16px;
+    border: 2px black solid;
+}
+a{
+    background-color: rgb(0, 17, 255);
+    border-radius: 24px;
+    width: 100px;
+    text-decoration: none;
+    padding: 4px 20px;
+    color: white;
+}
+img{
+    width: 100%;
+    border-radius: 16px;
+}
+h1{
+    margin: 0px;
+    margin-bottom: 10px;
+}
